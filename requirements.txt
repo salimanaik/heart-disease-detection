@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+joblib
+numpy
+scikit-learn==1.7.2  # Match your notebook's scikit-learn version; check with `pip show scikit-learn`
+pydantic
